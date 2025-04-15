@@ -3,7 +3,7 @@ Data Science Portfolio by Johannes PK Hamukwaya A collection of data science pro
 #Projects;
 
 
-###[Movie Data Analysis](./movie-data-analysis)
+###[Movie Data Analysis](Movie_Project.ipynb)
 A Jupyter notebook project exploring trends, ratings, and insights from a movie dataset using pandas, seaborn, and matplotlib.
 
 
